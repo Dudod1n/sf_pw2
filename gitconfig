@@ -1,0 +1,3 @@
+git config --global user.email "tremsn@yandex.ru"
+git config --global user.name "Nikita Adodin"
+git config --global alias.history 'log --graph'
