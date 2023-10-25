@@ -1,3 +1,8 @@
-git config --global user.email "tremsn@yandex.ru"
-git config --global user.name "Nikita Adodin"
+# Устновка параметра  "электронная почта пользователя"
+git config --global user.email "АДРЕС_ВАШЕЙ_ПОЧТЫ"
+
+# Установка параметра "имя пользователя"
+git config --global user.name "ВАШЕ_ИМЯ"
+
+# Алиас history для команды log --graph
 git config --global alias.history 'log --graph'
